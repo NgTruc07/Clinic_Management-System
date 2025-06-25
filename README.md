@@ -1,12 +1,12 @@
-# Bright Sight – Ophthalmology Clinic Management System
+## Bright Sight – Ophthalmology Clinic Management System
 
 A system analysis and design project for managing an eye clinic's operations, developed as part of a university coursework.
 
-## Overview
+### Overview
 
 This project analyzes the current workflow of the Bright Sight Eye Clinic and proposes a system to optimize scheduling, patient records, and administrative tasks.
 
-## Team
+### Team
 
 - Vũ Huỳnh Mai Phương  
 - Nguyễn Ngọc Minh Thư  
@@ -23,14 +23,14 @@ This project analyzes the current workflow of the Bright Sight Eye Clinic and pr
 - Defined non-functional requirements
 - Contributed to system structure and interface proposals
 
-## Tech Stack
+### Tech Stack
 
 - SQL Server  
 - Draw.io (UML Diagrams)  
 - Figma (UI Mockups)  
 - Microsoft Word, PowerPoint  
 
-## Key Deliverables
+### Key Deliverables
 
 - Use Case Diagram and breakdown (Search, Schedule, Manage Appointments)
 - Activity Diagrams and Sequence Diagrams
@@ -39,11 +39,11 @@ This project analyzes the current workflow of the Bright Sight Eye Clinic and pr
 - System limitations & actor definitions
 - UI Design Mockups (Figma)
 
-## Link
+### Link
 
 - Figma UI: https://www.figma.com/design/XyJq7INr4ZVXxdPzvdtcTi/Untitled?node-id=50-14127&t=DFWMLo3XPBUWEZ0n-1
 
-## Course Info
+### Course Info
 
 Final project for **System Analysis & Design**  
 University of Economics Ho Chi Minh City (UEH)  
